@@ -1,6 +1,6 @@
-**Simile Detection in Literary Analysis**
+**Simile Recognition in Literary Analysis**
 
-This repository contains code and data for detecting similes in big scale literary texts. It is a part of the thesis for the corresponding paper on simile detection in literary analysis.
+This repository contains code and data for simile recognition in big scale literary texts. It is a part of the thesis "Creative Power of Similes: Analyzing the Relationship Between Figurative Language and Literary Popularity Using Digital Humanities".
 
 **Repository Structure**
 
